@@ -1,5 +1,6 @@
-formatVersion: 1
 name: AWS_VM
+version: 1.0.0
+formatVersion: 1
 inputs: {}
 resources:
   Cloud_AWS_EC2_Instance_1:
