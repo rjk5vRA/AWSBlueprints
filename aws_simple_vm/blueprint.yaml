@@ -1,5 +1,5 @@
 name: AWS_VM2
-version: 1.0.0
+version: 2.0.0
 formatVersion: 1
 inputs: {}
 resources:
@@ -8,4 +8,4 @@ resources:
     properties:
       image: LINUX
       flavor: small
-      cloudtype: aws
+      cloudtype: rohit
