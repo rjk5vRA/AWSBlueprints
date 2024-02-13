@@ -9,3 +9,4 @@ resources:
       image: LINUX
       flavor: small
       cloudtype: rohit
+      random2: cow2
